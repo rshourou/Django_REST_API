@@ -1,2 +1,2 @@
 # airline
-a new django airline project
+This is a web-based flight booking application developed in Python and Django Framework. This project is an online platform that allows possible flight passengers to submit reservations for their desired flight/flights. The application published the flight availability online where the passengers can easily find a flight on their desired date and destination. The application was developed with the Bootstrap v5 version for the user interface. It consists of user-friendly features and functionalities.
